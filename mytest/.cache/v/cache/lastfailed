@@ -1,0 +1,4 @@
+{
+  "myunit/tests/tests_models.py::test_was_hello[False-True]": true, 
+  "myunit/tests/tests_models.py::test_was_hello[True-False]": true
+}
